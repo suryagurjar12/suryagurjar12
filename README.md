@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on [Query-that-return-single-object](https://github.com/suryagurjar12/Query-that-return-single-object.git)
 
+- 🌱 I’m currently learning **Django**
+
+- 💬 Ask me about **Django , Python ,Html, CSS,**
+
+- 📫 How to reach me **suryagurjar781@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/suryakant-gurjar-97b187305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/suryakant-gurjar-97b187305" height="30" width="40" /></a>
