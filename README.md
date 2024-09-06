@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suryakant Gurjar</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryagurjar12&label=Profile%20views&color=0e75b6&style=flat" alt="suryagurjar12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryagurjar12" alt="suryagurjar12" /></a> </p>
 
-- 🔭 I’m currently working on [Query-that-return-single-object](https://github.com/suryagurjar12/Query-that-return-single-object.git)
+- 🔭 I’m currently working on [ Django Projects](https://github.com/suryagurjar12/Query-that-return-single-object.git)
 
 - 🌱 I’m currently learning **Django**
 
